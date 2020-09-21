@@ -1,0 +1,5 @@
+Step1:Twilio provides a free trial account so that you can experience its services.
+I will be using Twilio to send an SMS later on by using a Python program.
+
+Step2:Your account SID and Auth token are hidden. 
+In order to view the Auth token, you may need to click on the “Show” button next to it.
